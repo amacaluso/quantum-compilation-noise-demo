@@ -47,3 +47,7 @@ jupyter notebook
 1. State sorting in the notebook is numeric by bitstring value for stable comparisons.
 2. The current branch (`main`) keeps only the minimal notebook example.
 3. Other notebook history is preserved in branch `notebooks-archive`.
+
+## Contact
+
+Please, if you have any question, contact me at antonio.macaluso@dfki.de.
